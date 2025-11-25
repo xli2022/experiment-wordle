@@ -1,4 +1,4 @@
-import { useState, useRef, useEffect, useLayoutEffect, useCallback } from 'react'
+import { useState } from 'react'
 import { WORDS } from '../data/words'
 
 export interface FormattedGuess {
